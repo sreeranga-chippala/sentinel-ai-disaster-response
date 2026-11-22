@@ -1,0 +1,21 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.streamlit/
+project.zip
+.DS_Store
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
